@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0B105716202E7BA8006A2DB9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B105715202E7BA8006A2DB9 /* AppDelegate.swift */; };
-		0B105718202E7BA8006A2DB9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B105717202E7BA8006A2DB9 /* ViewController.swift */; };
+		0B105718202E7BA8006A2DB9 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B105717202E7BA8006A2DB9 /* LoginViewController.swift */; };
 		0B10571B202E7BA8006A2DB9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B105719202E7BA8006A2DB9 /* Main.storyboard */; };
 		0B10571E202E7BA8006A2DB9 /* Sports_Club.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0B10571C202E7BA8006A2DB9 /* Sports_Club.xcdatamodeld */; };
 		0B105720202E7BA8006A2DB9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B10571F202E7BA8006A2DB9 /* Assets.xcassets */; };
@@ -37,7 +37,7 @@
 /* Begin PBXFileReference section */
 		0B105712202E7BA8006A2DB9 /* Sports Club.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sports Club.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B105715202E7BA8006A2DB9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		0B105717202E7BA8006A2DB9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		0B105717202E7BA8006A2DB9 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		0B10571A202E7BA8006A2DB9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		0B10571D202E7BA8006A2DB9 /* Sports_Club.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Sports_Club.xcdatamodel; sourceTree = "<group>"; };
 		0B10571F202E7BA8006A2DB9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -100,7 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				0B105715202E7BA8006A2DB9 /* AppDelegate.swift */,
-				0B105717202E7BA8006A2DB9 /* ViewController.swift */,
+				0B105717202E7BA8006A2DB9 /* LoginViewController.swift */,
 				0B105719202E7BA8006A2DB9 /* Main.storyboard */,
 				0B10571F202E7BA8006A2DB9 /* Assets.xcassets */,
 				0B105721202E7BA8006A2DB9 /* LaunchScreen.storyboard */,
@@ -262,7 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0B105718202E7BA8006A2DB9 /* ViewController.swift in Sources */,
+				0B105718202E7BA8006A2DB9 /* LoginViewController.swift in Sources */,
 				0B10571E202E7BA8006A2DB9 /* Sports_Club.xcdatamodeld in Sources */,
 				0B105716202E7BA8006A2DB9 /* AppDelegate.swift in Sources */,
 			);
@@ -433,8 +433,9 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = RJN6CETE7F;
 				INFOPLIST_FILE = "Sports Club/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.ustesports.Sports-Club";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ustesports.SportsClub;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -448,8 +449,9 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = RJN6CETE7F;
 				INFOPLIST_FILE = "Sports Club/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.ustesports.Sports-Club";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ustesports.SportsClub;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
