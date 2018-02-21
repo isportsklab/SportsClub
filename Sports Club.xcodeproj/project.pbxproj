@@ -19,6 +19,19 @@
 		A469408D1ED939CFB285645F /* Pods_Sports_Club.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 092F1DDF81B8E57E3A6FEA65 /* Pods_Sports_Club.framework */; };
 		AFBCD6BCEB17A580462EB59B /* Pods_Sports_ClubUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22A5682BB203F48CE5A42E06 /* Pods_Sports_ClubUITests.framework */; };
 		F968D6E7202F373800F450DC /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F968D6E6202F373800F450DC /* GoogleService-Info.plist */; };
+		F9AFA4BF203DBFD9002D7C3A /* Jordan6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F9AFA4B4203DBFD7002D7C3A /* Jordan6.jpg */; };
+		F9AFA4C0203DBFD9002D7C3A /* Jordan8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F9AFA4B5203DBFD7002D7C3A /* Jordan8.jpg */; };
+		F9AFA4C1203DBFD9002D7C3A /* Jordan5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F9AFA4B6203DBFD7002D7C3A /* Jordan5.jpg */; };
+		F9AFA4C2203DBFD9002D7C3A /* Jordan10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F9AFA4B7203DBFD7002D7C3A /* Jordan10.jpg */; };
+		F9AFA4C3203DBFD9002D7C3A /* Jordan3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F9AFA4B8203DBFD8002D7C3A /* Jordan3.jpg */; };
+		F9AFA4C4203DBFD9002D7C3A /* JordanMain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F9AFA4B9203DBFD8002D7C3A /* JordanMain.jpg */; };
+		F9AFA4C5203DBFD9002D7C3A /* Jordan9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F9AFA4BA203DBFD8002D7C3A /* Jordan9.jpg */; };
+		F9AFA4C6203DBFD9002D7C3A /* Jordan2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F9AFA4BB203DBFD8002D7C3A /* Jordan2.jpg */; };
+		F9AFA4C7203DBFD9002D7C3A /* Jordan4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F9AFA4BC203DBFD8002D7C3A /* Jordan4.jpg */; };
+		F9AFA4C8203DBFD9002D7C3A /* Jordan7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F9AFA4BD203DBFD8002D7C3A /* Jordan7.jpg */; };
+		F9AFA4C9203DBFD9002D7C3A /* Jordan1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F9AFA4BE203DBFD8002D7C3A /* Jordan1.jpg */; };
+		F9C00FF120383CC80098752A /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9C00FF020383CC70098752A /* ProfileViewController.swift */; };
+		F9C00FF32038562B0098752A /* Images in Resources */ = {isa = PBXBuildFile; fileRef = F9C00FF22038562A0098752A /* Images */; };
 		F9CF071D2030372600865739 /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9CF071C2030372600865739 /* SignupViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -64,6 +77,19 @@
 		A623E04B983AE6440CAA1D05 /* Pods-Sports Club.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Sports Club.release.xcconfig"; path = "Pods/Target Support Files/Pods-Sports Club/Pods-Sports Club.release.xcconfig"; sourceTree = "<group>"; };
 		ED82947AE74D8F3DAC82C0FD /* Pods-Sports Club.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Sports Club.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Sports Club/Pods-Sports Club.debug.xcconfig"; sourceTree = "<group>"; };
 		F968D6E6202F373800F450DC /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		F9AFA4B4203DBFD7002D7C3A /* Jordan6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Jordan6.jpg; path = Assets.xcassets/Jordan6.jpg; sourceTree = "<group>"; };
+		F9AFA4B5203DBFD7002D7C3A /* Jordan8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Jordan8.jpg; path = Assets.xcassets/Jordan8.jpg; sourceTree = "<group>"; };
+		F9AFA4B6203DBFD7002D7C3A /* Jordan5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Jordan5.jpg; path = Assets.xcassets/Jordan5.jpg; sourceTree = "<group>"; };
+		F9AFA4B7203DBFD7002D7C3A /* Jordan10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Jordan10.jpg; path = Assets.xcassets/Jordan10.jpg; sourceTree = "<group>"; };
+		F9AFA4B8203DBFD8002D7C3A /* Jordan3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Jordan3.jpg; path = Assets.xcassets/Jordan3.jpg; sourceTree = "<group>"; };
+		F9AFA4B9203DBFD8002D7C3A /* JordanMain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = JordanMain.jpg; path = Assets.xcassets/JordanMain.jpg; sourceTree = "<group>"; };
+		F9AFA4BA203DBFD8002D7C3A /* Jordan9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Jordan9.jpg; path = Assets.xcassets/Jordan9.jpg; sourceTree = "<group>"; };
+		F9AFA4BB203DBFD8002D7C3A /* Jordan2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Jordan2.jpg; path = Assets.xcassets/Jordan2.jpg; sourceTree = "<group>"; };
+		F9AFA4BC203DBFD8002D7C3A /* Jordan4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Jordan4.jpg; path = Assets.xcassets/Jordan4.jpg; sourceTree = "<group>"; };
+		F9AFA4BD203DBFD8002D7C3A /* Jordan7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Jordan7.jpg; path = Assets.xcassets/Jordan7.jpg; sourceTree = "<group>"; };
+		F9AFA4BE203DBFD8002D7C3A /* Jordan1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Jordan1.jpg; path = Assets.xcassets/Jordan1.jpg; sourceTree = "<group>"; };
+		F9C00FF020383CC70098752A /* ProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		F9C00FF22038562A0098752A /* Images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Images; sourceTree = "<group>"; };
 		F9CF071C2030372600865739 /* SignupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -133,11 +159,24 @@
 		0B105714202E7BA8006A2DB9 /* Sports Club */ = {
 			isa = PBXGroup;
 			children = (
+				F9C00FF22038562A0098752A /* Images */,
+				F9C00FF020383CC70098752A /* ProfileViewController.swift */,
 				F968D6E6202F373800F450DC /* GoogleService-Info.plist */,
 				0B105715202E7BA8006A2DB9 /* AppDelegate.swift */,
 				0B105717202E7BA8006A2DB9 /* LoginViewController.swift */,
 				0B105719202E7BA8006A2DB9 /* Main.storyboard */,
 				0B10571F202E7BA8006A2DB9 /* Assets.xcassets */,
+				F9AFA4BE203DBFD8002D7C3A /* Jordan1.jpg */,
+				F9AFA4BB203DBFD8002D7C3A /* Jordan2.jpg */,
+				F9AFA4B8203DBFD8002D7C3A /* Jordan3.jpg */,
+				F9AFA4BC203DBFD8002D7C3A /* Jordan4.jpg */,
+				F9AFA4B6203DBFD7002D7C3A /* Jordan5.jpg */,
+				F9AFA4B4203DBFD7002D7C3A /* Jordan6.jpg */,
+				F9AFA4BD203DBFD8002D7C3A /* Jordan7.jpg */,
+				F9AFA4B5203DBFD7002D7C3A /* Jordan8.jpg */,
+				F9AFA4BA203DBFD8002D7C3A /* Jordan9.jpg */,
+				F9AFA4B7203DBFD7002D7C3A /* Jordan10.jpg */,
+				F9AFA4B9203DBFD8002D7C3A /* JordanMain.jpg */,
 				0B105721202E7BA8006A2DB9 /* LaunchScreen.storyboard */,
 				0B105724202E7BA8006A2DB9 /* Info.plist */,
 				0B10571C202E7BA8006A2DB9 /* Sports_Club.xcdatamodeld */,
@@ -290,9 +329,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F9AFA4C4203DBFD9002D7C3A /* JordanMain.jpg in Resources */,
+				F9AFA4C2203DBFD9002D7C3A /* Jordan10.jpg in Resources */,
+				F9AFA4C7203DBFD9002D7C3A /* Jordan4.jpg in Resources */,
+				F9AFA4C0203DBFD9002D7C3A /* Jordan8.jpg in Resources */,
+				F9AFA4BF203DBFD9002D7C3A /* Jordan6.jpg in Resources */,
+				F9AFA4C3203DBFD9002D7C3A /* Jordan3.jpg in Resources */,
+				F9C00FF32038562B0098752A /* Images in Resources */,
 				0B105723202E7BA8006A2DB9 /* LaunchScreen.storyboard in Resources */,
 				F968D6E7202F373800F450DC /* GoogleService-Info.plist in Resources */,
+				F9AFA4C9203DBFD9002D7C3A /* Jordan1.jpg in Resources */,
+				F9AFA4C8203DBFD9002D7C3A /* Jordan7.jpg in Resources */,
+				F9AFA4C1203DBFD9002D7C3A /* Jordan5.jpg in Resources */,
+				F9AFA4C5203DBFD9002D7C3A /* Jordan9.jpg in Resources */,
 				0B105720202E7BA8006A2DB9 /* Assets.xcassets in Resources */,
+				F9AFA4C6203DBFD9002D7C3A /* Jordan2.jpg in Resources */,
 				0B10571B202E7BA8006A2DB9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -477,6 +528,7 @@
 			files = (
 				0B105718202E7BA8006A2DB9 /* LoginViewController.swift in Sources */,
 				0B10571E202E7BA8006A2DB9 /* Sports_Club.xcdatamodeld in Sources */,
+				F9C00FF120383CC80098752A /* ProfileViewController.swift in Sources */,
 				F9CF071D2030372600865739 /* SignupViewController.swift in Sources */,
 				0B105716202E7BA8006A2DB9 /* AppDelegate.swift in Sources */,
 			);

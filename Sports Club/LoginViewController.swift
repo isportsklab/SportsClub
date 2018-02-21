@@ -52,7 +52,7 @@ class LoginViewController: UIViewController {
             Auth.auth().signIn(withEmail: self.userEmail.text!, password: self.userPassword.text!) { (user, error) in
                 if error == nil {
                     print("You have successfully logged in")
-                    let vc = self.storyboard?.instantiateViewController(withIdentifier: "Login")
+                    let vc = self.storyboard?.instantiateViewController(withIdentifier: "Profile")
                     self.present(vc!, animated: true, completion: nil)
                 } else {
                     self.showAlert(title: "Error", message: (error?.localizedDescription)!)
